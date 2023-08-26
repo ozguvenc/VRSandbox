@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dacc4d06eebcecb4a846759a3ac9f6e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scripts/BuiltinDemo/TimerDisplay.cs
+  uploadId: 585449

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 909bc6df84ceb4922bfd4c191784dff7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scenes/ConduitDemo.unity
+  uploadId: 585449

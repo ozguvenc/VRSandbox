@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bc7d123559649f4c8b43e9b48f54a22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Data/Light Traits Demo - WitConfiguration.asset
+  uploadId: 585449

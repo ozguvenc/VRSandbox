@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 71a4551c17cbec446a02044ff9c9dc90
+timeCreated: 1531439997
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123111
+  packageName: FPS Label
+  packageVersion: 1.0
+  assetPath: Assets/FPSLabel/Example.unity
+  uploadId: 255564

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 903081583c88e6749a69ee8cf70f82fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Platform/Scripts/AvatarEditorOptions.cs
+  uploadId: 585449

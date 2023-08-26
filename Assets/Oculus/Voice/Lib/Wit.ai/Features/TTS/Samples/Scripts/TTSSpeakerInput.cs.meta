@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a57b9d9fb2760434e859220f24690a1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Features/TTS/Samples/Scripts/TTSSpeakerInput.cs
+  uploadId: 585449

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 188ae2a2bba452f4cb5a74888bc63c20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/Volume.prefab
+  uploadId: 585449

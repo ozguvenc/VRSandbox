@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff4eebc8b0244534a96081e6d719393e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/license.txt
+  uploadId: 585449

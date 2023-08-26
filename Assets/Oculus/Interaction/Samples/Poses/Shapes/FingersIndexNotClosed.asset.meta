@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d6228e5f79fc2419931ea0be65f57b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Poses/Shapes/FingersIndexNotClosed.asset
+  uploadId: 585449

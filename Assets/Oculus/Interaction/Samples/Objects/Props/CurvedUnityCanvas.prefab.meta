@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6733f35cecdc984c9d50925eb25939e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Objects/Props/CurvedUnityCanvas.prefab
+  uploadId: 585449

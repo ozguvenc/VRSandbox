@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 580dbef906f46f1449a123971c210b75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Editor/Body/BodyPoseRecorder.cs
+  uploadId: 585449

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5f6b4977623440a8aacf990eabdbb52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Attributes/OnConduitFailedParameterResolutionAttribute.cs
+  uploadId: 585449

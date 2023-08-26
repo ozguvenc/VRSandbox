@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cc63033c3cdd4ad09f74f921a53d6321
+timeCreated: 1658867665
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Scripts/OVRVirtualKeyboardSampleInputHandler.cs
+  uploadId: 585449

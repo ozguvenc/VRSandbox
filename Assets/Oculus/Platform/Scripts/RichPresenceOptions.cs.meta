@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2dfceb6846c6a0d4f8cceae39b42b655
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Platform/Scripts/RichPresenceOptions.cs
+  uploadId: 585449

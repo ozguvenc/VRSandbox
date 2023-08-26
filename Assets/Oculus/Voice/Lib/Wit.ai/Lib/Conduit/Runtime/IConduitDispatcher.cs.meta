@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6760a8a5b1ad404486bf5c3d36f07110
+timeCreated: 1652901147
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/IConduitDispatcher.cs
+  uploadId: 585449

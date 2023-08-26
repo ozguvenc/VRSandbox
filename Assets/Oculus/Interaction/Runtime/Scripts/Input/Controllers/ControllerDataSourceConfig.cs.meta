@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a1675de914d203a4a910d701ade05ce3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Scripts/Input/Controllers/ControllerDataSourceConfig.cs
+  uploadId: 585449

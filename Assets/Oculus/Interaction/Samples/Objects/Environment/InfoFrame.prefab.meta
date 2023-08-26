@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8764922f3a9e1740b79346543e14f83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Objects/Environment/InfoFrame.prefab
+  uploadId: 585449

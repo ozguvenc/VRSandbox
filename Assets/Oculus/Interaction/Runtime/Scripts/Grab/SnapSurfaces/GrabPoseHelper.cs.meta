@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cada41609b5284144aef14e522e6351a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Scripts/Grab/SnapSurfaces/GrabPoseHelper.cs
+  uploadId: 585449

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc4a6baa6479fb144a1ea82ec33cf33e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/OVRIntegration/Runtime/Scripts/UnityCanvas/OVRRenderingMode.cs
+  uploadId: 585449
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

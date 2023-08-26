@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a067db1b6411ce944a12ad8815474543
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Audio/Prefabs/ObjectReappearAudio.prefab
+  uploadId: 585449

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2806b25272d987d409c259aeab719be4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Shaders/OculusHandFillCG.cginc
+  uploadId: 585449

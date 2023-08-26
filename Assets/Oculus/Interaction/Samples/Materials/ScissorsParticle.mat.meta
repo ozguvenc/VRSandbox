@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f934f6827b1ed7947bc334bd556ecf5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Materials/ScissorsParticle.mat
+  uploadId: 585449

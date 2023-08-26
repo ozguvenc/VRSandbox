@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b6dc5be923e4794fbc03577778257f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Scripts/Editor/Upgrade/WitUpgrader.cs
+  uploadId: 585449

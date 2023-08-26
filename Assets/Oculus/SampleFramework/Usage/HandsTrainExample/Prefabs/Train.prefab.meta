@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d567a62afb480c49a270e0e4ea252d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/Train.prefab
+  uploadId: 585449

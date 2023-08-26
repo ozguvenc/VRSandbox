@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 939e07d58bc74256b6cb58d86fe35a56
+timeCreated: 1663663006
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Editor/OVRProjectSetup/OVRProjectSetupSettings.cs
+  uploadId: 585449

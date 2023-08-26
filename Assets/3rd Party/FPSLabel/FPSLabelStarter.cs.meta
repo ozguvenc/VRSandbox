@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 658105395f65b69469017ea7e27bbdba
+timeCreated: 1531407641
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123111
+  packageName: FPS Label
+  packageVersion: 1.0
+  assetPath: Assets/FPSLabel/FPSLabelStarter.cs
+  uploadId: 255564

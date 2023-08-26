@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4841ffc0c0203424aa20389fa184badd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Prefabs/Locomotion/LocomotionControllerInteractorGroup.prefab
+  uploadId: 585449

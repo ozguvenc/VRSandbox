@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 6cee728b552141eaae88d74a31ee88d3
+timeCreated: 1652815216
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Editor/ConduitAssembly.cs
+  uploadId: 585449

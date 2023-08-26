@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f64c9ebcd7899c3448a08dc9f9ddbe30
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Oculus.VR.asmdef
+  uploadId: 585449

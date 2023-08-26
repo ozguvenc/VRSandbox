@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: efa7d88c31431b24d8520b0fbd1ff2de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Platform/Scripts/GroupPresenceOptions.cs
+  uploadId: 585449

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b12d6bf4a89261438d9a24e3d188f1a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Spatializer/Plugins/AudioPluginOculusSpatializer.bundle/Contents/_CodeSignature/CodeResources
+  uploadId: 585449

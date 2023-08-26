@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 509f8fa80c708b343a603a4771d35c85
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Scenes/Examples/HandGrabUseExamples.unity
+  uploadId: 585449

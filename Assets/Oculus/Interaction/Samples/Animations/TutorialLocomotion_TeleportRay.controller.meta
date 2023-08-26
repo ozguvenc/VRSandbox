@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 000e616b56d923e45ae9bc2bf0571aa6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Animations/TutorialLocomotion_TeleportRay.controller
+  uploadId: 585449

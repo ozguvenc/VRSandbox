@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bf89341012d5104286d3d51e6e254dc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/XingLight.svg
+  uploadId: 585449

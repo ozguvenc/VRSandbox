@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7af6363ca0613144af4a8bc60517754
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/DefaultSettings/HandFilter/MediumSmoothing.asset
+  uploadId: 585449

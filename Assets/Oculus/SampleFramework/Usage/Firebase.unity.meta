@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 954eda7bd02eb444ca928648702a2b4c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/Firebase.unity
+  uploadId: 585449

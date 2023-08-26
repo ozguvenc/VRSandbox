@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b2b0882e924a4f52b3cebb599b3fa0d1
+timeCreated: 1628024315
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Scripts/PoseDetection/FeatureStateProvider.cs
+  uploadId: 585449

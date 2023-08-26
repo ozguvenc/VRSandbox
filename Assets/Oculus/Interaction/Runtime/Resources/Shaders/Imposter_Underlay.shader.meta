@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2bd6fe791ee0b84ebfe53a6f1428565
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay.shader
+  uploadId: 585449

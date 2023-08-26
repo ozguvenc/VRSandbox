@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86c200927e07323488de63f1cbcf1907
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Animations/Hands/HandFist_l_.anim
+  uploadId: 585449
