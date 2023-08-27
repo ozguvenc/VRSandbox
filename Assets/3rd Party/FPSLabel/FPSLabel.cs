@@ -64,8 +64,8 @@ public class FPSLabel : MonoBehaviour
 
 	private void Update()
 	{
-		m_DeltaTime += (Time.unscaledDeltaTime - m_DeltaTime)* 0.1f;
-		CheckInputs();
+		m_DeltaTime += (Time.unscaledDeltaTime - m_DeltaTime) * 0.1f;
+		// CheckInputs();
 	}
 
 	private void OnGUI()
@@ -81,8 +81,8 @@ public class FPSLabel : MonoBehaviour
 
 		Vector2 textSize = m_LabelStyle.CalcSize(new GUIContent(m_LabelText));
 		labelRect.height = textSize.y;
-		m_WindowRect.width = textSize.x+5f;
-		m_WindowRect.height = labelRect.height+LABEL_OFFSET_Y+5f;
+		m_WindowRect.width = textSize.x + 5f;
+		m_WindowRect.height = labelRect.height + LABEL_OFFSET_Y + 5f;
 		m_WindowRect = GUI.Window(0, m_WindowRect, DoMyWindow, "");
 		CheckGUIEvents();
 	}
@@ -118,15 +118,15 @@ public class FPSLabel : MonoBehaviour
 			contains)
 		{
 			// If left mouse button, toggle milliseconds
-			if(e.button == 0)
+			if (e.button == 0)
 			{
 				m_ShowMSec = !m_ShowMSec;
 			}
 			// If right mouse button, change color
-			else if(e.button == 1)
+			else if (e.button == 1)
 			{
 				m_ColorIndex++;
-				if(m_ColorIndex >= LABEL_COLORS.Length)
+				if (m_ColorIndex >= LABEL_COLORS.Length)
 				{
 					m_ColorIndex = 0;
 				}
@@ -155,13 +155,13 @@ public class FPSLabel : MonoBehaviour
 		}
 	}
 
-	private void CheckInputs()
-	{
-		// If both mouse buttons have been pressed, it toggles the label
-		if (Input.GetMouseButtonDown(0)&& Input.GetMouseButton(1)||
-			Input.GetMouseButtonDown(1)&& Input.GetMouseButton(0))
-		{
-			m_ShowLabel = !m_ShowLabel;
-		}
-	}
+	// private void CheckInputs()
+	// {
+	// 	// If both mouse buttons have been pressed, it toggles the label
+	// 	if (Input.GetMouseButtonDown(0)&& Input.GetMouseButton(1)||
+	// 		Input.GetMouseButtonDown(1)&& Input.GetMouseButton(0))
+	// 	{
+	// 		m_ShowLabel = !m_ShowLabel;
+	// 	}
+	// }
 }
