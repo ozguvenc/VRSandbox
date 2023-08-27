@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c1702799d3cd4a3f935ac9010934dd7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scripts/ChessWithConduitDemo/ChessBoardController.cs
+  uploadId: 585449

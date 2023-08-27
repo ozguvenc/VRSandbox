@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83524e9c02f299042bbc10032eec84a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/FurniturePrefabs/CouchPrefab.prefab
+  uploadId: 585449

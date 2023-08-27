@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46b60c6fd5ee4fb4eb2aab6fc3de5c50
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRHmd.prefab
+  uploadId: 585449
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

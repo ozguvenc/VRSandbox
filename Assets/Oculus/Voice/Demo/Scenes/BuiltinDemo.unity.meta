@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e367e1dd90bb894d88708e7548eae48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scenes/BuiltinDemo.unity
+  uploadId: 585449

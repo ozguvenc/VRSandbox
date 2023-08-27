@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4a33784a144ef2442a81151052a5bb3b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Scenes/Features/DebugHandGrab.unity
+  uploadId: 585449

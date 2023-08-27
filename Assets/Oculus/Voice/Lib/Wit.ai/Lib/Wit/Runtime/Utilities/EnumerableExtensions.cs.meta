@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fd739346736a44de9f3b3d41637e0992
+timeCreated: 1666741007
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Wit/Runtime/Utilities/EnumerableExtensions.cs
+  uploadId: 585449

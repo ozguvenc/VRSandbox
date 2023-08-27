@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 931021efef836d04ebf007a05ec77da5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/RoomLightPrefab.prefab
+  uploadId: 585449

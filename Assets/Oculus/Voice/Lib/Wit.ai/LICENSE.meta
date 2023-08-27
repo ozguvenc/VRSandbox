@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca52cefa5d9be7643968c328c2c55512
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/LICENSE
+  uploadId: 585449

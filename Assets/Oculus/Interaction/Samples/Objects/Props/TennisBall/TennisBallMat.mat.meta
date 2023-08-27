@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53012a4d0e99aa04896d0e03bb07287f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Objects/Props/TennisBall/TennisBallMat.mat
+  uploadId: 585449

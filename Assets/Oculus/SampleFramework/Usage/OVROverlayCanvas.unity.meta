@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af6fdd821de21814caa6187d466b6d2b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/OVROverlayCanvas.unity
+  uploadId: 585449

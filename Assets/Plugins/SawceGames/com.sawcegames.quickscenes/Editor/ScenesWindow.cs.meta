@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a9c8e80951bf6a3419f75ac909cac412
+timeCreated: 1509413515
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104198
+  packageName: Quick Scenes
+  packageVersion: 1.9.1
+  assetPath: Assets/Plugins/SawceGames/com.sawcegames.quickscenes/Editor/ScenesWindow.cs
+  uploadId: 497418

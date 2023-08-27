@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11cf8fa7bf3deb04db11bd170c0b4338
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/Stereo180Video.unity
+  uploadId: 585449

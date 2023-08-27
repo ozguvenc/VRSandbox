@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d27ac1ffd4cdd7c40a39dcfa6012355c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Prefabs/Ray/HandRayInteractor.prefab
+  uploadId: 585449

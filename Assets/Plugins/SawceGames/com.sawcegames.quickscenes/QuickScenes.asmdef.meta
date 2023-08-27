@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af2c4ed4587c92b4e9b409580156ea5e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104198
+  packageName: Quick Scenes
+  packageVersion: 1.9.1
+  assetPath: Assets/Plugins/SawceGames/com.sawcegames.quickscenes/QuickScenes.asmdef
+  uploadId: 497418

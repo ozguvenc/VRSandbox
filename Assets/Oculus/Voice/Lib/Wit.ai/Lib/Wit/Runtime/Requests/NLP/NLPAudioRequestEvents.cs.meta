@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6e93521d9da5c54b95f60ba87de0c91
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Wit/Runtime/Requests/NLP/NLPAudioRequestEvents.cs
+  uploadId: 585449

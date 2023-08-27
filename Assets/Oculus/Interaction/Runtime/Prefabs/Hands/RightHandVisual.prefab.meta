@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68af3ca65203dda408ed2b00fe76c117
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Prefabs/Hands/RightHandVisual.prefab
+  uploadId: 585449

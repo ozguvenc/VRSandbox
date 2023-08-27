@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f273abee0604ad2409c9bbc9a60e461e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/OVRIntegration/Runtime/Scripts/Input/FromOVRHmdDataSource.cs
+  uploadId: 585449
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

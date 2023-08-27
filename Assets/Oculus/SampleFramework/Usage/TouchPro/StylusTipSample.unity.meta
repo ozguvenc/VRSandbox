@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68233fffc84bb0648add52aa07154c8c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/TouchPro/StylusTipSample.unity
+  uploadId: 585449

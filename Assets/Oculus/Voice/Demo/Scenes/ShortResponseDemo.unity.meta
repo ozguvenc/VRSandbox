@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c156ca489a120c4fbaa82ad6856d00b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scenes/ShortResponseDemo.unity
+  uploadId: 585449

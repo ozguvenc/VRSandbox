@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fe91a423ce814160aefef165e8ea6e0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_DiffBump.shader
+  uploadId: 585449

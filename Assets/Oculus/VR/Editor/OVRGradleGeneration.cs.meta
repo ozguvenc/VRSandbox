@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ee7053149e3a159409d4deeb2f2e687f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Editor/OVRGradleGeneration.cs
+  uploadId: 585449

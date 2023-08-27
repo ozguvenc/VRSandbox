@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 183e66643adc8de44a683b5c644181a8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/SharedAssets/Prefabs/ToyT-BlockPf.prefab
+  uploadId: 585449

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3637b758ff163493f8bb8b6d7e96d7ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+  uploadId: 585449

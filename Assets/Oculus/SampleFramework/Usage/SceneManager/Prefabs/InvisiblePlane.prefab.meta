@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19eaa1918d9a5014889edb43d3e32f55
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/InvisiblePlane.prefab
+  uploadId: 585449

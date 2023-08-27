@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13488c79ceaed7c4294a1b8e8d48de47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Prefabs/ControllerHands.prefab
+  uploadId: 585449

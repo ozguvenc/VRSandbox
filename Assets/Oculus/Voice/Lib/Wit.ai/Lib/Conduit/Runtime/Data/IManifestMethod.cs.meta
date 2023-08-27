@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1333036b4f544515b804fb044e0e43d7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Lib/Conduit/Runtime/Data/IManifestMethod.cs
+  uploadId: 585449

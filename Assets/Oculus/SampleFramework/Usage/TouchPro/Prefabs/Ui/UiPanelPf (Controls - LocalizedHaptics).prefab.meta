@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f4845ad3efc4e343bb7dc7de09c0b54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/TouchPro/Prefabs/Ui/UiPanelPf (Controls
+    - LocalizedHaptics).prefab
+  uploadId: 585449

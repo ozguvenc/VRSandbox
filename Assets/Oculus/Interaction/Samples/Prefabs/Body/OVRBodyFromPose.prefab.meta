@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e00cd252fc6ef144ba80184f765ddd8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Prefabs/Body/OVRBodyFromPose.prefab
+  uploadId: 585449

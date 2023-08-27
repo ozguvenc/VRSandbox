@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4dd277bd9572488489906165e0931952
+timeCreated: 1444054820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/LipSync/Prefabs/LipSyncInterface.prefab
+  uploadId: 585449

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17aa390da2a0b204ea6ba4126132fa3f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Scenes/Features/DebugBodyPoseComparer.unity
+  uploadId: 585449

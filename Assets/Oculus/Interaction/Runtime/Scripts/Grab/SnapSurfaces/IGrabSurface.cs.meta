@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b84868e1fec742746b4f97a01bf836af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Scripts/Grab/SnapSurfaces/IGrabSurface.cs
+  uploadId: 585449

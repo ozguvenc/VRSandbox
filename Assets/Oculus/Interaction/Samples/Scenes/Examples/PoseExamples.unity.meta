@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4fe358b21fe17764db89a9ab9f202327
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Scenes/Examples/PoseExamples.unity
+  uploadId: 585449

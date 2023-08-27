@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05d394ae2a81edd4cbc3c51917e766e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Editor/OVRProjectConfig.cs
+  uploadId: 585449

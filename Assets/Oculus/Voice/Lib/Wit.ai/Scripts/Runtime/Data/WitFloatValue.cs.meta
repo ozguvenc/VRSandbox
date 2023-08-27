@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ab8864132457433b8281c87f23398770
+timeCreated: 1624318241
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Scripts/Runtime/Data/WitFloatValue.cs
+  uploadId: 585449

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bad5fdcacc3848e08780239d9578531
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/VR/Materials/SelfieMat.mat
+  uploadId: 585449

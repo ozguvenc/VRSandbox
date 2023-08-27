@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 943f4030051d4ae4eb8e1d146817e1ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Runtime/Scripts/Interaction/Core/IGameObjectFilter.cs
+  uploadId: 585449

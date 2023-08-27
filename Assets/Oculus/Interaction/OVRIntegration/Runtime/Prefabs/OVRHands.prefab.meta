@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea16c3c8c1688234fa81a4f39339bf1b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/OVRIntegration/Runtime/Prefabs/OVRHands.prefab
+  uploadId: 585449
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

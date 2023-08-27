@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fea35dc83d97e2b438e3baebaf6ead34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Materials/Skybox.mat
+  uploadId: 585449

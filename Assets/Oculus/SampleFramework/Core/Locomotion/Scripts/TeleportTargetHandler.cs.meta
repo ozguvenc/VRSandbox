@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0c41ab9d9362d514f8fb3ab4cb49a809
+timeCreated: 1496861986
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Core/Locomotion/Scripts/TeleportTargetHandler.cs
+  uploadId: 585449

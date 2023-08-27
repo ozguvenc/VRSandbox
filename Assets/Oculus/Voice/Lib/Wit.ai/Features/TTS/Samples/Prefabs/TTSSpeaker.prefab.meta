@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45fe3f4c7b67f4d4c83f7c1d3c8f1a50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Features/TTS/Samples/Prefabs/TTSSpeaker.prefab
+  uploadId: 585449

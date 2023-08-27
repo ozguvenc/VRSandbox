@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9c7c9228d4bd5044eaace6fad5b2accd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scripts/ShortResponse/ShortResponseInstructions.cs
+  uploadId: 585449

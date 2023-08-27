@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a912065df8e0b4b4385507810e31c60d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Interaction/Samples/Objects/LargeRoom.prefab
+  uploadId: 585449

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84b2569bd4cfe1543a0090a71b9f7155
+timeCreated: 1466788355
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104198
+  packageName: Quick Scenes
+  packageVersion: 1.9.1
+  assetPath: Assets/Plugins/SawceGames/com.sawcegames.quickscenes/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML
+  uploadId: 497418

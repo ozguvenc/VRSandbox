@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 443d56f5ec5b41c4aa647a2350247db1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/Wit.ai/Features/TTS/Samples/Scripts/TTSStatusLabel.cs
+  uploadId: 585449

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e1120ad58e6347809f136d52caa7638f
+timeCreated: 1652979217
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Lib/PlatformCompatibility/Scripts/Runtime/Interfaces/IVoiceSDKLogger.cs
+  uploadId: 585449

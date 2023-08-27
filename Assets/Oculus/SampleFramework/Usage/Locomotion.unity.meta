@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 024cd9dcd49bd8f46a6bea03aa8a21bb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/Locomotion.unity
+  uploadId: 585449

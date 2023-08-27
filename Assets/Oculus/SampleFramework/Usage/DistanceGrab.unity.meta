@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24f58b3f0ca02d44eaec7f50bca538f2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/SampleFramework/Usage/DistanceGrab.unity
+  uploadId: 585449

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d7123fd6df18ed94c8e232bfe699014a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82022
+  packageName: Oculus Integration
+  packageVersion: 53.1
+  assetPath: Assets/Oculus/Voice/Demo/Scripts/UIShapesDemo/Instructions.cs
+  uploadId: 585449
