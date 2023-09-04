@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 6783f1dc123ec894685e82062081ed63
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -8804265062469764040
+    second: rp_nathan_animated_003_walking_facial
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rp_nathan_animated_003_walking_facial
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 0
+      - path: root
+        weight: 0
+      - path: root/hip
+        weight: 0
+      - path: root/hip/spine_01
+        weight: 0
+      - path: root/hip/spine_01/spine_02
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/neck
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eye_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eye_l/eye_end_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eye_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eye_r/eye_end_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyebrow_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyebrow_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyelid_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyelid_l/eyelid_end_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyelid_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/eyelid_r/eyelid_end_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/head_end
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/jaw
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/jaw/jaw_end
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/mouth_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/neck/head/mouth_r
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/index_01_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/index_01_l/index_02_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/index_01_l/index_02_l/index_03_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/index_01_l/index_02_l/index_03_l/index_end_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/middle_01_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/middle_01_l/middle_02_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/middle_01_l/middle_02_l/middle_03_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/middle_01_l/middle_02_l/middle_03_l/middle_end_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/pinky_01_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/pinky_01_l/pinky_02_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/pinky_01_l/pinky_02_l/pinky_03_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/pinky_01_l/pinky_02_l/pinky_03_l/pinky_end_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/ring_01_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/ring_01_l/ring_02_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/ring_01_l/ring_02_l/ring_03_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/ring_01_l/ring_02_l/ring_03_l/ring_end_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l/thumb_02_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l/thumb_02_l/thumb_03_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/hand_l/thumb_01_l/thumb_02_l/thumb_03_l/thumb_end_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/lowerarm_l/lowerarm_twist_l
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_l/upperarm_l/upperarm_twist_l
+        weight: 1
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/index_01_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/index_01_r/index_02_r/index_03_r/index_end_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/middle_01_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/middle_01_r/middle_02_r/middle_03_r/middle_end_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/pinky_01_r/pinky_02_r/pinky_03_r/pinky_end_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/ring_01_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/ring_01_r/ring_02_r/ring_03_r/ring_end_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/hand_r/thumb_01_r/thumb_02_r/thumb_03_r/thumb_end_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/lowerarm_r/lowerarm_twist_r
+        weight: 0
+      - path: root/hip/spine_01/spine_02/spine_03/shoulder_r/upperarm_r/upperarm_twist_r
+        weight: 1
+      - path: root/hip/upperleg_l
+        weight: 0
+      - path: root/hip/upperleg_l/lowerleg_l
+        weight: 0
+      - path: root/hip/upperleg_l/lowerleg_l/foot_l
+        weight: 0
+      - path: root/hip/upperleg_l/lowerleg_l/foot_l/ball_l
+        weight: 0
+      - path: root/hip/upperleg_l/lowerleg_l/foot_l/ball_l/foot_end_l
+        weight: 0
+      - path: root/hip/upperleg_l/lowerleg_l/lowerleg_twist_l
+        weight: 0
+      - path: root/hip/upperleg_l/upperleg_twist_l
+        weight: 1
+      - path: root/hip/upperleg_r
+        weight: 0
+      - path: root/hip/upperleg_r/lowerleg_r
+        weight: 0
+      - path: root/hip/upperleg_r/lowerleg_r/foot_r
+        weight: 0
+      - path: root/hip/upperleg_r/lowerleg_r/foot_r/ball_r
+        weight: 0
+      - path: root/hip/upperleg_r/lowerleg_r/foot_r/ball_r/foot_end_r
+        weight: 0
+      - path: root/hip/upperleg_r/lowerleg_r/lowerleg_twist_r
+        weight: 0
+      - path: root/hip/upperleg_r/upperleg_twist_r
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
